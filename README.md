@@ -631,3 +631,4 @@ git push origin v0.2.0
 
 ![alt text](изображение.png)
 
+![alt text](изображение-1.png)
